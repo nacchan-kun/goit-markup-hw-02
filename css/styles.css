@@ -48,7 +48,6 @@ body {
 
 .address {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
   font-style: normal;
 
@@ -60,7 +59,6 @@ body {
 
 .address-link {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
 
   /* line-height: 24px; */
@@ -83,7 +81,6 @@ body {
 
 .button-section-heading {
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
   font-size: 56px;
 
   /* line-height: 60px; */
@@ -125,7 +122,6 @@ body {
 
 .main-list {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
 
   /* line-height: 24px; */
@@ -151,7 +147,6 @@ body {
 
 .team-heading {
     font-family: "Roboto", sans-serif;
-font-weight: 700;
 font-size: 36px;
 
 /* line-height: 40px; */ 
@@ -164,7 +159,6 @@ text-transform: capitalize;
 
 .team-description {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
 
   /* line-height: 24px; */
@@ -181,12 +175,11 @@ text-transform: capitalize;
 
 
 .portfolio {
-  background-color: #f4f4fd;
+  background-color: #fff;
 }
 
 .portfolio-paragraph {
     font-family: "Roboto", sans-serif;
-font-weight: 400;
 font-size: 16px;
 
 /* line-height: 24px; */ 
@@ -213,7 +206,6 @@ color: #434455;
 
 .footer-description {
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
   font-size: 16px;
 
   /* line-height: 24px; */
@@ -221,3 +213,7 @@ color: #434455;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+a {text-decoration: none;}
+
+ul {list-style: none;}
